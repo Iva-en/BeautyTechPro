@@ -32,9 +32,6 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\Ivana\\Desktop\\BeautyTechPro\\BeautyTechPro.Application\\BeautyTechPro.Application.csproj": {
-                "projectPath": "C:\\Users\\Ivana\\Desktop\\BeautyTechPro\\BeautyTechPro.Application\\BeautyTechPro.Application.csproj"
-              },
               "C:\\Users\\Ivana\\Desktop\\BeautyTechPro\\BeautyTechPro.Infrastructure\\BeautyTechPro.Infrastructure.csproj": {
                 "projectPath": "C:\\Users\\Ivana\\Desktop\\BeautyTechPro\\BeautyTechPro.Infrastructure\\BeautyTechPro.Infrastructure.csproj"
               }
@@ -57,9 +54,15 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "dependencies": {
-            "Microsoft.AspNetCore.OpenApi": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
               "version": "[9.0.8, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.6.2, )"
             }
           },
           "imports": [

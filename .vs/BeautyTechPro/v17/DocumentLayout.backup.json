@@ -3,52 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Ivana\\Desktop\\BeautyTechPro\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BF9AAB76-C00F-464E-A453-0394F521EAB0}|BeautyTechPro.Domain\\BeautyTechPro.Domain.csproj|c:\\users\\ivana\\desktop\\beautytechpro\\beautytechpro.domain\\entities\\material.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF9AAB76-C00F-464E-A453-0394F521EAB0}|BeautyTechPro.Domain\\BeautyTechPro.Domain.csproj|solutionrelative:beautytechpro.domain\\entities\\material.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F812DCF9-5905-63E9-2D0E-F89BAACD2DF8}|BeautyTechPro.API\\BeautyTechPro.API.csproj|c:\\users\\ivana\\desktop\\beautytechpro\\beautytechpro.api\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F812DCF9-5905-63E9-2D0E-F89BAACD2DF8}|BeautyTechPro.API\\BeautyTechPro.API.csproj|solutionrelative:beautytechpro.api\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BF9AAB76-C00F-464E-A453-0394F521EAB0}|BeautyTechPro.Domain\\BeautyTechPro.Domain.csproj|c:\\users\\ivana\\desktop\\beautytechpro\\beautytechpro.domain\\entities\\teaching.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF9AAB76-C00F-464E-A453-0394F521EAB0}|BeautyTechPro.Domain\\BeautyTechPro.Domain.csproj|solutionrelative:beautytechpro.domain\\entities\\teaching.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F812DCF9-5905-63E9-2D0E-F89BAACD2DF8}|BeautyTechPro.API\\BeautyTechPro.API.csproj|c:\\users\\ivana\\desktop\\beautytechpro\\beautytechpro.api\\wwwroot\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{F812DCF9-5905-63E9-2D0E-F89BAACD2DF8}|BeautyTechPro.API\\BeautyTechPro.API.csproj|solutionrelative:beautytechpro.api\\wwwroot\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BF9AAB76-C00F-464E-A453-0394F521EAB0}|BeautyTechPro.Domain\\BeautyTechPro.Domain.csproj|c:\\users\\ivana\\desktop\\beautytechpro\\beautytechpro.domain\\entities\\inscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF9AAB76-C00F-464E-A453-0394F521EAB0}|BeautyTechPro.Domain\\BeautyTechPro.Domain.csproj|solutionrelative:beautytechpro.domain\\entities\\inscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F812DCF9-5905-63E9-2D0E-F89BAACD2DF8}|BeautyTechPro.API\\BeautyTechPro.API.csproj|c:\\users\\ivana\\desktop\\beautytechpro\\beautytechpro.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F812DCF9-5905-63E9-2D0E-F89BAACD2DF8}|BeautyTechPro.API\\BeautyTechPro.API.csproj|solutionrelative:beautytechpro.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BF9AAB76-C00F-464E-A453-0394F521EAB0}|BeautyTechPro.Domain\\BeautyTechPro.Domain.csproj|c:\\users\\ivana\\desktop\\beautytechpro\\beautytechpro.domain\\entities\\schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF9AAB76-C00F-464E-A453-0394F521EAB0}|BeautyTechPro.Domain\\BeautyTechPro.Domain.csproj|solutionrelative:beautytechpro.domain\\entities\\schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F812DCF9-5905-63E9-2D0E-F89BAACD2DF8}|BeautyTechPro.API\\BeautyTechPro.API.csproj|c:\\users\\ivana\\desktop\\beautytechpro\\beautytechpro.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F812DCF9-5905-63E9-2D0E-F89BAACD2DF8}|BeautyTechPro.API\\BeautyTechPro.API.csproj|solutionrelative:beautytechpro.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BF9AAB76-C00F-464E-A453-0394F521EAB0}|BeautyTechPro.Domain\\BeautyTechPro.Domain.csproj|c:\\users\\ivana\\desktop\\beautytechpro\\beautytechpro.domain\\entities\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF9AAB76-C00F-464E-A453-0394F521EAB0}|BeautyTechPro.Domain\\BeautyTechPro.Domain.csproj|solutionrelative:beautytechpro.domain\\entities\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BF9AAB76-C00F-464E-A453-0394F521EAB0}|BeautyTechPro.Domain\\BeautyTechPro.Domain.csproj|c:\\users\\ivana\\desktop\\beautytechpro\\beautytechpro.domain\\entities\\assistance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF9AAB76-C00F-464E-A453-0394F521EAB0}|BeautyTechPro.Domain\\BeautyTechPro.Domain.csproj|solutionrelative:beautytechpro.domain\\entities\\assistance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BF9AAB76-C00F-464E-A453-0394F521EAB0}|BeautyTechPro.Domain\\BeautyTechPro.Domain.csproj|c:\\users\\ivana\\desktop\\beautytechpro\\beautytechpro.domain\\entities\\modality.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF9AAB76-C00F-464E-A453-0394F521EAB0}|BeautyTechPro.Domain\\BeautyTechPro.Domain.csproj|solutionrelative:beautytechpro.domain\\entities\\modality.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BF9AAB76-C00F-464E-A453-0394F521EAB0}|BeautyTechPro.Domain\\BeautyTechPro.Domain.csproj|c:\\users\\ivana\\desktop\\beautytechpro\\beautytechpro.domain\\entities\\certificate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF9AAB76-C00F-464E-A453-0394F521EAB0}|BeautyTechPro.Domain\\BeautyTechPro.Domain.csproj|solutionrelative:beautytechpro.domain\\entities\\certificate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BF9AAB76-C00F-464E-A453-0394F521EAB0}|BeautyTechPro.Domain\\BeautyTechPro.Domain.csproj|c:\\users\\ivana\\desktop\\beautytechpro\\beautytechpro.domain\\entities\\practice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF9AAB76-C00F-464E-A453-0394F521EAB0}|BeautyTechPro.Domain\\BeautyTechPro.Domain.csproj|solutionrelative:beautytechpro.domain\\entities\\practice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BF9AAB76-C00F-464E-A453-0394F521EAB0}|BeautyTechPro.Domain\\BeautyTechPro.Domain.csproj|c:\\users\\ivana\\desktop\\beautytechpro\\beautytechpro.domain\\entities\\module.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF9AAB76-C00F-464E-A453-0394F521EAB0}|BeautyTechPro.Domain\\BeautyTechPro.Domain.csproj|solutionrelative:beautytechpro.domain\\entities\\module.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BF9AAB76-C00F-464E-A453-0394F521EAB0}|BeautyTechPro.Domain\\BeautyTechPro.Domain.csproj|c:\\users\\ivana\\desktop\\beautytechpro\\beautytechpro.domain\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF9AAB76-C00F-464E-A453-0394F521EAB0}|BeautyTechPro.Domain\\BeautyTechPro.Domain.csproj|solutionrelative:beautytechpro.domain\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BF9AAB76-C00F-464E-A453-0394F521EAB0}|BeautyTechPro.Domain\\BeautyTechPro.Domain.csproj|c:\\users\\ivana\\desktop\\beautytechpro\\beautytechpro.domain\\entities\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF9AAB76-C00F-464E-A453-0394F521EAB0}|BeautyTechPro.Domain\\BeautyTechPro.Domain.csproj|solutionrelative:beautytechpro.domain\\entities\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F812DCF9-5905-63E9-2D0E-F89BAACD2DF8}|BeautyTechPro.API\\BeautyTechPro.API.csproj|c:\\users\\ivana\\desktop\\beautytechpro\\beautytechpro.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F812DCF9-5905-63E9-2D0E-F89BAACD2DF8}|BeautyTechPro.API\\BeautyTechPro.API.csproj|solutionrelative:beautytechpro.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,166 +30,75 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\Ivana\\Desktop\\BeautyTechPro\\BeautyTechPro.API\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "BeautyTechPro.API\\wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\Ivana\\Desktop\\BeautyTechPro\\BeautyTechPro.API\\wwwroot\\index.html",
+              "RelativeToolTip": "BeautyTechPro.API\\wwwroot\\index.html",
+              "ViewState": "AgIAABMAAAAAAAAAAAAYwKAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-04-25T17:13:22.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "script.js",
+              "DocumentMoniker": "C:\\Users\\Ivana\\Desktop\\BeautyTechPro\\BeautyTechPro.API\\wwwroot\\script.js",
+              "RelativeDocumentMoniker": "BeautyTechPro.API\\wwwroot\\script.js",
+              "ToolTip": "C:\\Users\\Ivana\\Desktop\\BeautyTechPro\\BeautyTechPro.API\\wwwroot\\script.js",
+              "RelativeToolTip": "BeautyTechPro.API\\wwwroot\\script.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHoBAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-04-25T17:07:53.177Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Material.cs",
-              "DocumentMoniker": "C:\\Users\\Ivana\\Desktop\\BeautyTechPro\\BeautyTechPro.Domain\\Entities\\Material.cs",
-              "RelativeDocumentMoniker": "BeautyTechPro.Domain\\Entities\\Material.cs",
-              "ToolTip": "C:\\Users\\Ivana\\Desktop\\BeautyTechPro\\BeautyTechPro.Domain\\Entities\\Material.cs",
-              "RelativeToolTip": "BeautyTechPro.Domain\\Entities\\Material.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-25T08:03:41.73Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Modality.cs",
-              "DocumentMoniker": "C:\\Users\\Ivana\\Desktop\\BeautyTechPro\\BeautyTechPro.Domain\\Entities\\Modality.cs",
-              "RelativeDocumentMoniker": "BeautyTechPro.Domain\\Entities\\Modality.cs",
-              "ToolTip": "C:\\Users\\Ivana\\Desktop\\BeautyTechPro\\BeautyTechPro.Domain\\Entities\\Modality.cs",
-              "RelativeToolTip": "BeautyTechPro.Domain\\Entities\\Modality.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-25T07:54:44.171Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Certificate.cs",
-              "DocumentMoniker": "C:\\Users\\Ivana\\Desktop\\BeautyTechPro\\BeautyTechPro.Domain\\Entities\\Certificate.cs",
-              "RelativeDocumentMoniker": "BeautyTechPro.Domain\\Entities\\Certificate.cs",
-              "ToolTip": "C:\\Users\\Ivana\\Desktop\\BeautyTechPro\\BeautyTechPro.Domain\\Entities\\Certificate.cs",
-              "RelativeToolTip": "BeautyTechPro.Domain\\Entities\\Certificate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-25T07:54:11.996Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Assistance.cs",
-              "DocumentMoniker": "C:\\Users\\Ivana\\Desktop\\BeautyTechPro\\BeautyTechPro.Domain\\Entities\\Assistance.cs",
-              "RelativeDocumentMoniker": "BeautyTechPro.Domain\\Entities\\Assistance.cs",
-              "ToolTip": "C:\\Users\\Ivana\\Desktop\\BeautyTechPro\\BeautyTechPro.Domain\\Entities\\Assistance.cs",
-              "RelativeToolTip": "BeautyTechPro.Domain\\Entities\\Assistance.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-25T07:53:40.977Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Payment.cs",
-              "DocumentMoniker": "C:\\Users\\Ivana\\Desktop\\BeautyTechPro\\BeautyTechPro.Domain\\Entities\\Payment.cs",
-              "RelativeDocumentMoniker": "BeautyTechPro.Domain\\Entities\\Payment.cs",
-              "ToolTip": "C:\\Users\\Ivana\\Desktop\\BeautyTechPro\\BeautyTechPro.Domain\\Entities\\Payment.cs",
-              "RelativeToolTip": "BeautyTechPro.Domain\\Entities\\Payment.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-25T07:53:10.601Z",
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Ivana\\Desktop\\BeautyTechPro\\BeautyTechPro.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "BeautyTechPro.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Ivana\\Desktop\\BeautyTechPro\\BeautyTechPro.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "BeautyTechPro.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-25T16:59:36.346Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Schedule.cs",
-              "DocumentMoniker": "C:\\Users\\Ivana\\Desktop\\BeautyTechPro\\BeautyTechPro.Domain\\Entities\\Schedule.cs",
-              "RelativeDocumentMoniker": "BeautyTechPro.Domain\\Entities\\Schedule.cs",
-              "ToolTip": "C:\\Users\\Ivana\\Desktop\\BeautyTechPro\\BeautyTechPro.Domain\\Entities\\Schedule.cs",
-              "RelativeToolTip": "BeautyTechPro.Domain\\Entities\\Schedule.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-25T07:52:55.605Z",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Ivana\\Desktop\\BeautyTechPro\\BeautyTechPro.API\\appsettings.json",
+              "RelativeDocumentMoniker": "BeautyTechPro.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Ivana\\Desktop\\BeautyTechPro\\BeautyTechPro.API\\appsettings.json",
+              "RelativeToolTip": "BeautyTechPro.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-25T16:17:54.466Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Inscription.cs",
-              "DocumentMoniker": "C:\\Users\\Ivana\\Desktop\\BeautyTechPro\\BeautyTechPro.Domain\\Entities\\Inscription.cs",
-              "RelativeDocumentMoniker": "BeautyTechPro.Domain\\Entities\\Inscription.cs",
-              "ToolTip": "C:\\Users\\Ivana\\Desktop\\BeautyTechPro\\BeautyTechPro.Domain\\Entities\\Inscription.cs",
-              "RelativeToolTip": "BeautyTechPro.Domain\\Entities\\Inscription.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ivana\\Desktop\\BeautyTechPro\\BeautyTechPro.API\\Program.cs",
+              "RelativeDocumentMoniker": "BeautyTechPro.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Ivana\\Desktop\\BeautyTechPro\\BeautyTechPro.API\\Program.cs",
+              "RelativeToolTip": "BeautyTechPro.API\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-25T07:52:17.34Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Teaching.cs",
-              "DocumentMoniker": "C:\\Users\\Ivana\\Desktop\\BeautyTechPro\\BeautyTechPro.Domain\\Entities\\Teaching.cs",
-              "RelativeDocumentMoniker": "BeautyTechPro.Domain\\Entities\\Teaching.cs",
-              "ToolTip": "C:\\Users\\Ivana\\Desktop\\BeautyTechPro\\BeautyTechPro.Domain\\Entities\\Teaching.cs",
-              "RelativeToolTip": "BeautyTechPro.Domain\\Entities\\Teaching.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-25T07:51:43.119Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Practice.cs",
-              "DocumentMoniker": "C:\\Users\\Ivana\\Desktop\\BeautyTechPro\\BeautyTechPro.Domain\\Entities\\Practice.cs",
-              "RelativeDocumentMoniker": "BeautyTechPro.Domain\\Entities\\Practice.cs",
-              "ToolTip": "C:\\Users\\Ivana\\Desktop\\BeautyTechPro\\BeautyTechPro.Domain\\Entities\\Practice.cs",
-              "RelativeToolTip": "BeautyTechPro.Domain\\Entities\\Practice.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-25T07:51:30.803Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Module.cs",
-              "DocumentMoniker": "C:\\Users\\Ivana\\Desktop\\BeautyTechPro\\BeautyTechPro.Domain\\Entities\\Module.cs",
-              "RelativeDocumentMoniker": "BeautyTechPro.Domain\\Entities\\Module.cs",
-              "ToolTip": "C:\\Users\\Ivana\\Desktop\\BeautyTechPro\\BeautyTechPro.Domain\\Entities\\Module.cs",
-              "RelativeToolTip": "BeautyTechPro.Domain\\Entities\\Module.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-25T07:51:13.403Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Users\\Ivana\\Desktop\\BeautyTechPro\\BeautyTechPro.Domain\\Entities\\Student.cs",
-              "RelativeDocumentMoniker": "BeautyTechPro.Domain\\Entities\\Student.cs",
-              "ToolTip": "C:\\Users\\Ivana\\Desktop\\BeautyTechPro\\BeautyTechPro.Domain\\Entities\\Student.cs",
-              "RelativeToolTip": "BeautyTechPro.Domain\\Entities\\Student.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-25T07:50:58.828Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Comment.cs",
-              "DocumentMoniker": "C:\\Users\\Ivana\\Desktop\\BeautyTechPro\\BeautyTechPro.Domain\\Entities\\Comment.cs",
-              "RelativeDocumentMoniker": "BeautyTechPro.Domain\\Entities\\Comment.cs",
-              "ToolTip": "C:\\Users\\Ivana\\Desktop\\BeautyTechPro\\BeautyTechPro.Domain\\Entities\\Comment.cs",
-              "RelativeToolTip": "BeautyTechPro.Domain\\Entities\\Comment.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-25T07:46:31.899Z",
+              "WhenOpened": "2026-04-25T16:10:07.955Z",
               "EditorCaption": ""
             }
           ]

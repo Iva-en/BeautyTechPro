@@ -10,14 +10,11 @@ namespace BeautyTechPro.Domain.Entities
     {
         public int Id { get; set; }
         public string Name { get; set; }
-        public string LastName { get; set; }
-        public int Age { get; set; }
-        public string Phone { get; set; }
         public string Email { get; set; }
+        public string Phone { get; set; }
+        public DateTime RegistrationDate { get; set; }
 
-        public virtual ICollection<StudentPractice> StudentPractices { get; set; }
-        public virtual ICollection<Enrollment> Enrollments { get; set; }
-        public virtual ICollection<Attendance> Attendances { get; set; }
-        public virtual ICollection<Certificate> Certificates { get; set; }
-        public virtual ICollection<Comment> Comments { get; set; }
+        // Relationships
+        public ICollection<Practice> Practices { get; set; }
     }
+}

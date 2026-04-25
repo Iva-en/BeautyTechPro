@@ -1,0 +1,43 @@
+# Build
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider / VS Code
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# EF Core
+Migrations/*.Designer.cs
+
+# Node (por si luego usas frontend más avanzado)
+node_modules/
+
+# Frontend
+*.env
+
+# Publish
+publish/
+
+# IIS
+wwwroot/lib/
+
+# Secrets
+appsettings.Development.json
+
+# SQL LocalDB
+*.mdf
+*.ldf

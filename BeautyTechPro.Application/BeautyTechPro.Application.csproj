@@ -1,14 +1,19 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <ItemGroup>
-    <ProjectReference Include="..\BeautyTechPro.Domain\BeautyTechPro.Domain.csproj" />
+    <Compile Remove="Contracts\**" />
+    <Compile Remove="MappingProfiles\**" />
+    <Compile Remove="Services\**" />
+    <EmbeddedResource Remove="Contracts\**" />
+    <EmbeddedResource Remove="MappingProfiles\**" />
+    <EmbeddedResource Remove="Services\**" />
+    <None Remove="Contracts\**" />
+    <None Remove="MappingProfiles\**" />
+    <None Remove="Services\**" />
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Contracts\" />
-    <Folder Include="DTOs\" />
-    <Folder Include="MappingProfiles\" />
-    <Folder Include="Services\" />
+    <ProjectReference Include="..\BeautyTechPro.Domain\BeautyTechPro.Domain.csproj" />
   </ItemGroup>
 
   <PropertyGroup>

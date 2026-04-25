@@ -9,6 +9,11 @@ namespace BeautyTechPro.Domain.Entities
     public class Schedule
     {
         public int Id { get; set; }
-        public string Type { get; set; } // Matutino, Vespertino, Nocturno
+        public DateTime Date { get; set; }
+        public string Time { get; set; }
+
+        // FK Module
+        public int ModuleId { get; set; }
+        public Module Module { get; set; }
     }
 }

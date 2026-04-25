@@ -10,16 +10,20 @@ namespace BeautyTechPro.Domain.Entities
     {
         public int Id { get; set; }
         public string Name { get; set; }
-        public int Duration { get; set; }
-        public string Description { get; set; }
+        public DateTime Date { get; set; }
+        public decimal Grade { get; set; }
+        public string Observations { get; set; }
 
-        public int TeachingId { get; set; }
-        public virtual Teaching Teaching { get; set; }
+        // FK Student
+        public int StudentId { get; set; }
+        public Student Student { get; set; }
 
-        public virtual ICollection<StudentPractice> StudentPractices { get; set; }
-        public virtual ICollection<PracticeEquipment> PracticeEquipment { get; set; }
-        public virtual ICollection<PracticeModule> PracticeModules { get; set; }
-        public virtual ICollection<Enrollment> Enrollments { get; set; }
-        public virtual ICollection<Certificate> Certificates { get; set; }
+        // FK Module
+        public int ModuleId { get; set; }
+        public Module Module { get; set; }
+
+        // FK Instructor
+        public int InstructorId { get; set; }
+        public Instructor Instructor { get; set; }
     }
 }
