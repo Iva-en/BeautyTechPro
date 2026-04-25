@@ -1,0 +1,347 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ivana\\Desktop\\BeautyTechPro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1545A54A-13A4-4979-8FBC-7EE4AC45452C}|BeautyTechPro.Infrastructure\\BeautyTechPro.Infrastructure.csproj|c:\\users\\ivana\\desktop\\beautytechpro\\beautytechpro.infrastructure\\repositories\\equipmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1545A54A-13A4-4979-8FBC-7EE4AC45452C}|BeautyTechPro.Infrastructure\\BeautyTechPro.Infrastructure.csproj|solutionrelative:beautytechpro.infrastructure\\repositories\\equipmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1545A54A-13A4-4979-8FBC-7EE4AC45452C}|BeautyTechPro.Infrastructure\\BeautyTechPro.Infrastructure.csproj|c:\\users\\ivana\\desktop\\beautytechpro\\beautytechpro.infrastructure\\repositories\\practicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1545A54A-13A4-4979-8FBC-7EE4AC45452C}|BeautyTechPro.Infrastructure\\BeautyTechPro.Infrastructure.csproj|solutionrelative:beautytechpro.infrastructure\\repositories\\practicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1545A54A-13A4-4979-8FBC-7EE4AC45452C}|BeautyTechPro.Infrastructure\\BeautyTechPro.Infrastructure.csproj|c:\\users\\ivana\\desktop\\beautytechpro\\beautytechpro.infrastructure\\repositories\\teachingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1545A54A-13A4-4979-8FBC-7EE4AC45452C}|BeautyTechPro.Infrastructure\\BeautyTechPro.Infrastructure.csproj|solutionrelative:beautytechpro.infrastructure\\repositories\\teachingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9AAB76-C00F-464E-A453-0394F521EAB0}|BeautyTechPro.Domain\\BeautyTechPro.Domain.csproj|c:\\users\\ivana\\desktop\\beautytechpro\\beautytechpro.domain\\entities\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9AAB76-C00F-464E-A453-0394F521EAB0}|BeautyTechPro.Domain\\BeautyTechPro.Domain.csproj|solutionrelative:beautytechpro.domain\\entities\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1545A54A-13A4-4979-8FBC-7EE4AC45452C}|BeautyTechPro.Infrastructure\\BeautyTechPro.Infrastructure.csproj|c:\\users\\ivana\\desktop\\beautytechpro\\beautytechpro.infrastructure\\repositories\\_unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1545A54A-13A4-4979-8FBC-7EE4AC45452C}|BeautyTechPro.Infrastructure\\BeautyTechPro.Infrastructure.csproj|solutionrelative:beautytechpro.infrastructure\\repositories\\_unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1545A54A-13A4-4979-8FBC-7EE4AC45452C}|BeautyTechPro.Infrastructure\\BeautyTechPro.Infrastructure.csproj|c:\\users\\ivana\\desktop\\beautytechpro\\beautytechpro.infrastructure\\repositories\\enrollmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1545A54A-13A4-4979-8FBC-7EE4AC45452C}|BeautyTechPro.Infrastructure\\BeautyTechPro.Infrastructure.csproj|solutionrelative:beautytechpro.infrastructure\\repositories\\enrollmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9AAB76-C00F-464E-A453-0394F521EAB0}|BeautyTechPro.Domain\\BeautyTechPro.Domain.csproj|c:\\users\\ivana\\desktop\\beautytechpro\\beautytechpro.domain\\entities\\practice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9AAB76-C00F-464E-A453-0394F521EAB0}|BeautyTechPro.Domain\\BeautyTechPro.Domain.csproj|solutionrelative:beautytechpro.domain\\entities\\practice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1545A54A-13A4-4979-8FBC-7EE4AC45452C}|BeautyTechPro.Infrastructure\\BeautyTechPro.Infrastructure.csproj|c:\\users\\ivana\\desktop\\beautytechpro\\beautytechpro.infrastructure\\repositories\\certificaterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1545A54A-13A4-4979-8FBC-7EE4AC45452C}|BeautyTechPro.Infrastructure\\BeautyTechPro.Infrastructure.csproj|solutionrelative:beautytechpro.infrastructure\\repositories\\certificaterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1545A54A-13A4-4979-8FBC-7EE4AC45452C}|BeautyTechPro.Infrastructure\\BeautyTechPro.Infrastructure.csproj|c:\\users\\ivana\\desktop\\beautytechpro\\beautytechpro.infrastructure\\repositories\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1545A54A-13A4-4979-8FBC-7EE4AC45452C}|BeautyTechPro.Infrastructure\\BeautyTechPro.Infrastructure.csproj|solutionrelative:beautytechpro.infrastructure\\repositories\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1545A54A-13A4-4979-8FBC-7EE4AC45452C}|BeautyTechPro.Infrastructure\\BeautyTechPro.Infrastructure.csproj|c:\\users\\ivana\\desktop\\beautytechpro\\beautytechpro.infrastructure\\data\\beautytechprocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1545A54A-13A4-4979-8FBC-7EE4AC45452C}|BeautyTechPro.Infrastructure\\BeautyTechPro.Infrastructure.csproj|solutionrelative:beautytechpro.infrastructure\\data\\beautytechprocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9AAB76-C00F-464E-A453-0394F521EAB0}|BeautyTechPro.Domain\\BeautyTechPro.Domain.csproj|c:\\users\\ivana\\desktop\\beautytechpro\\beautytechpro.domain\\entities\\teaching.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9AAB76-C00F-464E-A453-0394F521EAB0}|BeautyTechPro.Domain\\BeautyTechPro.Domain.csproj|solutionrelative:beautytechpro.domain\\entities\\teaching.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9AAB76-C00F-464E-A453-0394F521EAB0}|BeautyTechPro.Domain\\BeautyTechPro.Domain.csproj|c:\\users\\ivana\\desktop\\beautytechpro\\beautytechpro.domain\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9AAB76-C00F-464E-A453-0394F521EAB0}|BeautyTechPro.Domain\\BeautyTechPro.Domain.csproj|solutionrelative:beautytechpro.domain\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1545A54A-13A4-4979-8FBC-7EE4AC45452C}|BeautyTechPro.Infrastructure\\BeautyTechPro.Infrastructure.csproj|c:\\users\\ivana\\desktop\\beautytechpro\\beautytechpro.infrastructure\\repositories\\attendancerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1545A54A-13A4-4979-8FBC-7EE4AC45452C}|BeautyTechPro.Infrastructure\\BeautyTechPro.Infrastructure.csproj|solutionrelative:beautytechpro.infrastructure\\repositories\\attendancerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1545A54A-13A4-4979-8FBC-7EE4AC45452C}|BeautyTechPro.Infrastructure\\BeautyTechPro.Infrastructure.csproj|c:\\users\\ivana\\desktop\\beautytechpro\\beautytechpro.infrastructure\\repositories\\paymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1545A54A-13A4-4979-8FBC-7EE4AC45452C}|BeautyTechPro.Infrastructure\\BeautyTechPro.Infrastructure.csproj|solutionrelative:beautytechpro.infrastructure\\repositories\\paymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1545A54A-13A4-4979-8FBC-7EE4AC45452C}|BeautyTechPro.Infrastructure\\BeautyTechPro.Infrastructure.csproj|c:\\users\\ivana\\desktop\\beautytechpro\\beautytechpro.infrastructure\\repositories\\studentrepository.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1545A54A-13A4-4979-8FBC-7EE4AC45452C}|BeautyTechPro.Infrastructure\\BeautyTechPro.Infrastructure.csproj|solutionrelative:beautytechpro.infrastructure\\repositories\\studentrepository.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1545A54A-13A4-4979-8FBC-7EE4AC45452C}|BeautyTechPro.Infrastructure\\BeautyTechPro.Infrastructure.csproj|c:\\users\\ivana\\desktop\\beautytechpro\\beautytechpro.infrastructure\\repositories\\modulerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1545A54A-13A4-4979-8FBC-7EE4AC45452C}|BeautyTechPro.Infrastructure\\BeautyTechPro.Infrastructure.csproj|solutionrelative:beautytechpro.infrastructure\\repositories\\modulerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1545A54A-13A4-4979-8FBC-7EE4AC45452C}|BeautyTechPro.Infrastructure\\BeautyTechPro.Infrastructure.csproj|c:\\users\\ivana\\desktop\\beautytechpro\\beautytechpro.infrastructure\\repositories\\modalityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1545A54A-13A4-4979-8FBC-7EE4AC45452C}|BeautyTechPro.Infrastructure\\BeautyTechPro.Infrastructure.csproj|solutionrelative:beautytechpro.infrastructure\\repositories\\modalityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1545A54A-13A4-4979-8FBC-7EE4AC45452C}|BeautyTechPro.Infrastructure\\BeautyTechPro.Infrastructure.csproj|c:\\users\\ivana\\desktop\\beautytechpro\\beautytechpro.infrastructure\\repositories\\schedulerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1545A54A-13A4-4979-8FBC-7EE4AC45452C}|BeautyTechPro.Infrastructure\\BeautyTechPro.Infrastructure.csproj|solutionrelative:beautytechpro.infrastructure\\repositories\\schedulerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1545A54A-13A4-4979-8FBC-7EE4AC45452C}|BeautyTechPro.Infrastructure\\BeautyTechPro.Infrastructure.csproj|c:\\users\\ivana\\desktop\\beautytechpro\\beautytechpro.infrastructure\\beautytechpro.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1545A54A-13A4-4979-8FBC-7EE4AC45452C}|BeautyTechPro.Infrastructure\\BeautyTechPro.Infrastructure.csproj|solutionrelative:beautytechpro.infrastructure\\beautytechpro.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Ivana\\Desktop\\BeautyTechPro\\BeautyTechPro.Infrastructure\\Repositories\\_UnitOfWork.cs",
+              "RelativeDocumentMoniker": "BeautyTechPro.Infrastructure\\Repositories\\_UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Ivana\\Desktop\\BeautyTechPro\\BeautyTechPro.Infrastructure\\Repositories\\_UnitOfWork.cs",
+              "RelativeToolTip": "BeautyTechPro.Infrastructure\\Repositories\\_UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T10:26:33.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Enrollment.cs",
+              "DocumentMoniker": "C:\\Users\\Ivana\\Desktop\\BeautyTechPro\\BeautyTechPro.Domain\\Entities\\Enrollment.cs",
+              "RelativeDocumentMoniker": "BeautyTechPro.Domain\\Entities\\Enrollment.cs",
+              "ToolTip": "C:\\Users\\Ivana\\Desktop\\BeautyTechPro\\BeautyTechPro.Domain\\Entities\\Enrollment.cs",
+              "RelativeToolTip": "BeautyTechPro.Domain\\Entities\\Enrollment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T10:20:40.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TeachingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ivana\\Desktop\\BeautyTechPro\\BeautyTechPro.Infrastructure\\Repositories\\TeachingRepository.cs",
+              "RelativeDocumentMoniker": "BeautyTechPro.Infrastructure\\Repositories\\TeachingRepository.cs",
+              "ToolTip": "C:\\Users\\Ivana\\Desktop\\BeautyTechPro\\BeautyTechPro.Infrastructure\\Repositories\\TeachingRepository.cs",
+              "RelativeToolTip": "BeautyTechPro.Infrastructure\\Repositories\\TeachingRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T09:52:50.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PracticeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ivana\\Desktop\\BeautyTechPro\\BeautyTechPro.Infrastructure\\Repositories\\PracticeRepository.cs",
+              "RelativeDocumentMoniker": "BeautyTechPro.Infrastructure\\Repositories\\PracticeRepository.cs",
+              "ToolTip": "C:\\Users\\Ivana\\Desktop\\BeautyTechPro\\BeautyTechPro.Infrastructure\\Repositories\\PracticeRepository.cs",
+              "RelativeToolTip": "BeautyTechPro.Infrastructure\\Repositories\\PracticeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T09:53:03.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EquipmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ivana\\Desktop\\BeautyTechPro\\BeautyTechPro.Infrastructure\\Repositories\\EquipmentRepository.cs",
+              "RelativeDocumentMoniker": "BeautyTechPro.Infrastructure\\Repositories\\EquipmentRepository.cs",
+              "ToolTip": "C:\\Users\\Ivana\\Desktop\\BeautyTechPro\\BeautyTechPro.Infrastructure\\Repositories\\EquipmentRepository.cs",
+              "RelativeToolTip": "BeautyTechPro.Infrastructure\\Repositories\\EquipmentRepository.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA1wBsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T09:54:59.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Practice.cs",
+              "DocumentMoniker": "C:\\Users\\Ivana\\Desktop\\BeautyTechPro\\BeautyTechPro.Domain\\Entities\\Practice.cs",
+              "RelativeDocumentMoniker": "BeautyTechPro.Domain\\Entities\\Practice.cs",
+              "ToolTip": "C:\\Users\\Ivana\\Desktop\\BeautyTechPro\\BeautyTechPro.Domain\\Entities\\Practice.cs",
+              "RelativeToolTip": "BeautyTechPro.Domain\\Entities\\Practice.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAswA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T10:08:03.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EnrollmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ivana\\Desktop\\BeautyTechPro\\BeautyTechPro.Infrastructure\\Repositories\\EnrollmentRepository.cs",
+              "RelativeDocumentMoniker": "BeautyTechPro.Infrastructure\\Repositories\\EnrollmentRepository.cs",
+              "ToolTip": "C:\\Users\\Ivana\\Desktop\\BeautyTechPro\\BeautyTechPro.Infrastructure\\Repositories\\EnrollmentRepository.cs",
+              "RelativeToolTip": "BeautyTechPro.Infrastructure\\Repositories\\EnrollmentRepository.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAwwBcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T09:54:09.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CertificateRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ivana\\Desktop\\BeautyTechPro\\BeautyTechPro.Infrastructure\\Repositories\\CertificateRepository.cs",
+              "RelativeDocumentMoniker": "BeautyTechPro.Infrastructure\\Repositories\\CertificateRepository.cs",
+              "ToolTip": "C:\\Users\\Ivana\\Desktop\\BeautyTechPro\\BeautyTechPro.Infrastructure\\Repositories\\CertificateRepository.cs",
+              "RelativeToolTip": "BeautyTechPro.Infrastructure\\Repositories\\CertificateRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAEwBQAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T09:55:12.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CommentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ivana\\Desktop\\BeautyTechPro\\BeautyTechPro.Infrastructure\\Repositories\\CommentRepository.cs",
+              "RelativeDocumentMoniker": "BeautyTechPro.Infrastructure\\Repositories\\CommentRepository.cs",
+              "ToolTip": "C:\\Users\\Ivana\\Desktop\\BeautyTechPro\\BeautyTechPro.Infrastructure\\Repositories\\CommentRepository.cs",
+              "RelativeToolTip": "BeautyTechPro.Infrastructure\\Repositories\\CommentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T09:55:35.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BeautyTechProContext.cs",
+              "DocumentMoniker": "C:\\Users\\Ivana\\Desktop\\BeautyTechPro\\BeautyTechPro.Infrastructure\\Data\\BeautyTechProContext.cs",
+              "RelativeDocumentMoniker": "BeautyTechPro.Infrastructure\\Data\\BeautyTechProContext.cs",
+              "ToolTip": "C:\\Users\\Ivana\\Desktop\\BeautyTechPro\\BeautyTechPro.Infrastructure\\Data\\BeautyTechProContext.cs",
+              "RelativeToolTip": "BeautyTechPro.Infrastructure\\Data\\BeautyTechProContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T08:59:31.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Teaching.cs",
+              "DocumentMoniker": "C:\\Users\\Ivana\\Desktop\\BeautyTechPro\\BeautyTechPro.Domain\\Entities\\Teaching.cs",
+              "RelativeDocumentMoniker": "BeautyTechPro.Domain\\Entities\\Teaching.cs",
+              "ToolTip": "C:\\Users\\Ivana\\Desktop\\BeautyTechPro\\BeautyTechPro.Domain\\Entities\\Teaching.cs",
+              "RelativeToolTip": "BeautyTechPro.Domain\\Entities\\Teaching.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T10:08:44.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Ivana\\Desktop\\BeautyTechPro\\BeautyTechPro.Domain\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "BeautyTechPro.Domain\\Entities\\Student.cs",
+              "ToolTip": "C:\\Users\\Ivana\\Desktop\\BeautyTechPro\\BeautyTechPro.Domain\\Entities\\Student.cs",
+              "RelativeToolTip": "BeautyTechPro.Domain\\Entities\\Student.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T10:06:59.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AttendanceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ivana\\Desktop\\BeautyTechPro\\BeautyTechPro.Infrastructure\\Repositories\\AttendanceRepository.cs",
+              "RelativeDocumentMoniker": "BeautyTechPro.Infrastructure\\Repositories\\AttendanceRepository.cs",
+              "ToolTip": "C:\\Users\\Ivana\\Desktop\\BeautyTechPro\\BeautyTechPro.Infrastructure\\Repositories\\AttendanceRepository.cs",
+              "RelativeToolTip": "BeautyTechPro.Infrastructure\\Repositories\\AttendanceRepository.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAiwDMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T09:54:39.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PaymentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ivana\\Desktop\\BeautyTechPro\\BeautyTechPro.Infrastructure\\Repositories\\PaymentRepository.cs",
+              "RelativeDocumentMoniker": "BeautyTechPro.Infrastructure\\Repositories\\PaymentRepository.cs",
+              "ToolTip": "C:\\Users\\Ivana\\Desktop\\BeautyTechPro\\BeautyTechPro.Infrastructure\\Repositories\\PaymentRepository.cs",
+              "RelativeToolTip": "BeautyTechPro.Infrastructure\\Repositories\\PaymentRepository.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAiwDUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T09:54:21.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "StudentRepository.cs.cs",
+              "DocumentMoniker": "C:\\Users\\Ivana\\Desktop\\BeautyTechPro\\BeautyTechPro.Infrastructure\\Repositories\\StudentRepository.cs.cs",
+              "RelativeDocumentMoniker": "BeautyTechPro.Infrastructure\\Repositories\\StudentRepository.cs.cs",
+              "ToolTip": "C:\\Users\\Ivana\\Desktop\\BeautyTechPro\\BeautyTechPro.Infrastructure\\Repositories\\StudentRepository.cs.cs",
+              "RelativeToolTip": "BeautyTechPro.Infrastructure\\Repositories\\StudentRepository.cs.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwDgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T09:50:53.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ModuleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ivana\\Desktop\\BeautyTechPro\\BeautyTechPro.Infrastructure\\Repositories\\ModuleRepository.cs",
+              "RelativeDocumentMoniker": "BeautyTechPro.Infrastructure\\Repositories\\ModuleRepository.cs",
+              "ToolTip": "C:\\Users\\Ivana\\Desktop\\BeautyTechPro\\BeautyTechPro.Infrastructure\\Repositories\\ModuleRepository.cs",
+              "RelativeToolTip": "BeautyTechPro.Infrastructure\\Repositories\\ModuleRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T09:56:40.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ModalityRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ivana\\Desktop\\BeautyTechPro\\BeautyTechPro.Infrastructure\\Repositories\\ModalityRepository.cs",
+              "RelativeDocumentMoniker": "BeautyTechPro.Infrastructure\\Repositories\\ModalityRepository.cs",
+              "ToolTip": "C:\\Users\\Ivana\\Desktop\\BeautyTechPro\\BeautyTechPro.Infrastructure\\Repositories\\ModalityRepository.cs",
+              "RelativeToolTip": "BeautyTechPro.Infrastructure\\Repositories\\ModalityRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T09:53:45.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ScheduleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ivana\\Desktop\\BeautyTechPro\\BeautyTechPro.Infrastructure\\Repositories\\ScheduleRepository.cs",
+              "RelativeDocumentMoniker": "BeautyTechPro.Infrastructure\\Repositories\\ScheduleRepository.cs",
+              "ToolTip": "C:\\Users\\Ivana\\Desktop\\BeautyTechPro\\BeautyTechPro.Infrastructure\\Repositories\\ScheduleRepository.cs",
+              "RelativeToolTip": "BeautyTechPro.Infrastructure\\Repositories\\ScheduleRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T09:53:29.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BeautyTechPro.Infrastructure",
+              "DocumentMoniker": "C:\\Users\\Ivana\\Desktop\\BeautyTechPro\\BeautyTechPro.Infrastructure\\BeautyTechPro.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "BeautyTechPro.Infrastructure\\BeautyTechPro.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\Ivana\\Desktop\\BeautyTechPro\\BeautyTechPro.Infrastructure\\BeautyTechPro.Infrastructure.csproj",
+              "RelativeToolTip": "BeautyTechPro.Infrastructure\\BeautyTechPro.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-25T08:57:15.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
